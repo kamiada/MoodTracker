@@ -1,0 +1,12 @@
+{
+  "name": "MoodTracker",
+  "displayName": "MoodTracker",
+  "expo": {
+    "name": "MoodTracker",
+    "slug": "MoodTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
